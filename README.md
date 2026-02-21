@@ -10,8 +10,8 @@
 
 ## 👨‍💻 Creator
 
-**Name:** Isha Javed  
-**Email:** ishabajwa001@gmail.com  
+**Name:** Zainab Gondal 
+**Email:** gondalzainab34@gmail.com  
 **Project:** PyFlow - Interactive Python Code Visualizer
 
 ---
@@ -186,9 +186,10 @@ This project is open source and available for educational purposes.
 
 For questions, suggestions, or feedback:
 
-**Isha Javed**  
-📧 Email: ishabajwa001@gmail.com
+**Zainab Gondal**  
+📧 Email: gondalzainab34@gmail.com
 
 ---
+
 
 
